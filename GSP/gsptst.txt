@@ -1,0 +1,15 @@
+40
+5
+(bd)cb
+(bf)(ce)b
+(ag)b
+(be)(ce)
+a(bd)bcb
+
+40
+5
+<AB(FG)CD>
+<BGD>
+<BFG(AB)>
+<F(AB)CD>
+<A(BC)GF(DE)>
